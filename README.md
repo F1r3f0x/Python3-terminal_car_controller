@@ -1,6 +1,6 @@
 # Terminal Car Controller
 
-Little curses program that controls a mini car, even through SSH
+Little curses program that controls a mini car with a Raspberry Pi, even through SSH
 
 ### "Car"
 ![car photo](/pics/car.jpg)
